@@ -10,7 +10,7 @@
   {
     "name": "KuKu Token",
     "symbol": "KUKU",
-    "address": "0xC0101Cefa59C4A70b8692E34E66049388A312273",
+    "address": "0x509195A9d762BC6F3282c874156bd2E45dE86a10",
     "chainId": 321,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/KukuSwap-KCC/icons/main/token/kuku.png"
@@ -18,7 +18,7 @@
   {
     "name": "MaMa Token",
     "symbol": "MAMA",
-    "address": "0x1542c99cb3133fa187761ab2c07fbf72be287524",
+    "address": "0x1542C99Cb3133fa187761aB2c07fbF72Be287524",
     "chainId": 321,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/KukuSwap-KCC/icons/main/token/mama.png"
