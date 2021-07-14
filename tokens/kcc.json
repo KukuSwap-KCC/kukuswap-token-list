@@ -14,13 +14,5 @@
     "chainId": 321,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/KukuSwap-KCC/icons/main/token/kuku.png"
-  },
-  {
-    "name": "MaMa Token",
-    "symbol": "MAMA",
-    "address": "0x1542C99Cb3133fa187761aB2c07fbF72Be287524",
-    "chainId": 321,
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/KukuSwap-KCC/icons/main/token/mama.png"
   }
 ]
